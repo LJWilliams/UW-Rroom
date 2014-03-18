@@ -1,3 +1,4 @@
+## This file generates a plot of random numbers with noisey
 set.seed(99)
 a <- 2
 b <- -3
