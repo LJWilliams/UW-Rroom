@@ -1,4 +1,5 @@
-## This file generates a plot of random numbers with noisey
+## This file generates a plot of random numbers with noise
+## This is a change to the file
 set.seed(99)
 a <- 2
 b <- -3
